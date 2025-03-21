@@ -68,7 +68,7 @@ MinOS (pronounced "Minus") is an ultra-lightweight, secure, and fast operating s
 - Low-resource virtual machines and containers
 
 ## License
-[To be determined]
+[MIT License](https://github.com/Nezarcc/MinOS/blob/main/LICENSE)]
 
 ## Contributing
-MinOS is currently in the design phase. Contribution guidelines will be established as the project progresses.
+MinOS is currently in early stages. Contribution guidelines will be established as the project progresses.
